@@ -108,3 +108,4 @@ async def get_words():
 
 bot.run(config["token"])
 
+# https://discord.com/api/oauth2/authorize?client_id=882693617255350292&permissions=533113207808&scope=bot
